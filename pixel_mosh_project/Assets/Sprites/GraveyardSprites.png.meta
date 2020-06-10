@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: 1da54f5ef13834e7d9ca0f4317699472
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5757814152361434149
+    second: GraveyardSprites_0
+  - first:
+      213: 416525932201626745
+    second: GraveyardSprites_1
+  - first:
+      213: 8909837493561934328
+    second: GraveyardSprites_2
+  - first:
+      213: -1030620093916592091
+    second: GraveyardSprites_3
+  - first:
+      213: -5429006925001624912
+    second: GraveyardSprites_4
+  - first:
+      213: -3729836074780687452
+    second: GraveyardSprites_5
+  - first:
+      213: 3673393285108360164
+    second: GraveyardSprites_6
+  - first:
+      213: -4345629739709615861
+    second: GraveyardSprites_7
+  - first:
+      213: -9057730271460583885
+    second: GraveyardSprites_8
+  - first:
+      213: -5738781441621358580
+    second: GraveyardSprites_9
+  - first:
+      213: 2755093341705726715
+    second: GraveyardSprites_10
+  - first:
+      213: -6143880142624970285
+    second: GraveyardSprites_11
+  - first:
+      213: 5495751066086802861
+    second: GraveyardSprites_12
+  - first:
+      213: -1214490529989448932
+    second: GraveyardSprites_13
+  - first:
+      213: 5387326585991617774
+    second: GraveyardSprites_14
+  - first:
+      213: -2798293154629925451
+    second: GraveyardSprites_15
+  - first:
+      213: 490863247077493122
+    second: GraveyardSprites_16
+  - first:
+      213: -2505093269409655830
+    second: GraveyardSprites_17
+  - first:
+      213: -122069085686368970
+    second: GraveyardSprites_18
+  - first:
+      213: 7021248956570232985
+    second: GraveyardSprites_19
+  - first:
+      213: 6600075071857570899
+    second: GraveyardSprites_20
+  - first:
+      213: 2549104303745106091
+    second: GraveyardSprites_21
+  - first:
+      213: 4827747804215280741
+    second: GraveyardSprites_22
+  - first:
+      213: 5574681540758370516
+    second: GraveyardSprites_23
+  - first:
+      213: -5536693077375013555
+    second: GraveyardSprites_24
+  - first:
+      213: -4516205646521404547
+    second: GraveyardSprites_25
+  - first:
+      213: 1041868138524035369
+    second: GraveyardSprites_26
+  - first:
+      213: 6661854710299496589
+    second: GraveyardSprites_27
+  - first:
+      213: 5212144749203364005
+    second: GraveyardSprites_28
+  - first:
+      213: -508161557352657632
+    second: GraveyardSprites_29
+  - first:
+      213: -1133013986041558252
+    second: GraveyardSprites_30
+  - first:
+      213: -2522823880352206399
+    second: GraveyardSprites_31
+  - first:
+      213: -4612707441586440383
+    second: GraveyardSprites_32
+  - first:
+      213: -5039137253171988910
+    second: GraveyardSprites_33
+  - first:
+      213: 7238710086890745232
+    second: GraveyardSprites_34
+  - first:
+      213: -3750053428828195308
+    second: GraveyardSprites_35
+  - first:
+      213: -2869574704010258810
+    second: GraveyardSprites_36
+  - first:
+      213: -3373931198461752377
+    second: GraveyardSprites_37
+  - first:
+      213: -3204217072480349515
+    second: GraveyardSprites_38
+  - first:
+      213: 5278107995658559559
+    second: GraveyardSprites_39
+  - first:
+      213: 5157242922888543045
+    second: GraveyardSprites_40
+  - first:
+      213: -565274361764747429
+    second: GraveyardSprites_41
+  - first:
+      213: 7858636105573973519
+    second: GraveyardSprites_42
+  - first:
+      213: -2413903567366016932
+    second: GraveyardSprites_43
+  - first:
+      213: -8018500950048837928
+    second: GraveyardSprites_44
+  - first:
+      213: -2932648362826111809
+    second: GraveyardSprites_45
+  - first:
+      213: -2084660200346963771
+    second: GraveyardSprites_46
+  - first:
+      213: 3670379246920074419
+    second: GraveyardSprites_47
+  - first:
+      213: 6729052514574342875
+    second: GraveyardSprites_48
+  - first:
+      213: -2344658718064005541
+    second: GraveyardSprites_49
+  - first:
+      213: -7700674623634467585
+    second: GraveyardSprites_50
+  - first:
+      213: -6714221736109646382
+    second: GraveyardSprites_51
+  - first:
+      213: 7956025479409378321
+    second: GraveyardSprites_52
+  - first:
+      213: 7294838836448490329
+    second: GraveyardSprites_53
+  - first:
+      213: -6932657463647734018
+    second: GraveyardSprites_54
+  - first:
+      213: -2316418767783885997
+    second: GraveyardSprites_55
+  - first:
+      213: -4121659664331949858
+    second: GraveyardSprites_56
+  - first:
+      213: 1969927700778333244
+    second: GraveyardSprites_57
+  - first:
+      213: 8958624565928888736
+    second: GraveyardSprites_58
+  - first:
+      213: 7755148965354041752
+    second: GraveyardSprites_59
+  - first:
+      213: 8629622459383990272
+    second: GraveyardSprites_60
+  - first:
+      213: -7289230835440147745
+    second: GraveyardSprites_61
+  - first:
+      213: -8263726803270087874
+    second: GraveyardSprites_62
+  - first:
+      213: 3017631965887612755
+    second: GraveyardSprites_63
+  - first:
+      213: -8080157545007837155
+    second: GraveyardSprites_64
+  - first:
+      213: -1489404577882400084
+    second: GraveyardSprites_65
+  - first:
+      213: 7428299281780674828
+    second: GraveyardSprites_66
+  - first:
+      213: -223791155178981188
+    second: GraveyardSprites_67
+  - first:
+      213: 2362485477548416287
+    second: GraveyardSprites_68
+  - first:
+      213: -3192120067473930061
+    second: GraveyardSprites_69
+  - first:
+      213: -9139005694952569279
+    second: GraveyardSprites_70
+  - first:
+      213: -6698343310431211868
+    second: GraveyardSprites_71
+  - first:
+      213: 8833641915999598038
+    second: GraveyardSprites_72
+  - first:
+      213: -2370301203699129511
+    second: GraveyardSprites_73
+  - first:
+      213: 8414243057812934891
+    second: GraveyardSprites_74
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GraveyardSprites_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 192
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631f174ece3bf4a50b836aae6150487d
+      internalID: -5757814152361434149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 187
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1070e0a8bb024bd6ad66c88e8c2fe11
+      internalID: 416525932201626745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 189
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0fe600585044ea2b6b7b4ea1b20c3d
+      internalID: 8909837493561934328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_3
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd4b6491f6941a894da386034af2c0
+      internalID: -1030620093916592091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 187
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3107447bcc8842e5b36505c04b7590c
+      internalID: -5429006925001624912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 146
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee521764ef443178bc64f67a225623
+      internalID: -3729836074780687452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 187
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16ffbea7dc5d46aea418af0ae8c0816
+      internalID: 3673393285108360164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 170
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740020091b2c347f8b3fec30809c42a5
+      internalID: -4345629739709615861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 169
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef930f9bdbfe41a391a682cd831b9b2
+      internalID: -9057730271460583885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b622ac3973f5b4b8180d7c3a7ba24a9e
+      internalID: -5738781441621358580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 170
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3b7b8e4e9cc4ef9abe76fb06239c18
+      internalID: 2755093341705726715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 169
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef364f59232245c399f88fe8be627e3
+      internalID: -6143880142624970285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 160
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4840b56ced5345c7824d52045ae9f11
+      internalID: 5495751066086802861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 154
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760c745db21740c0bb5d7d2792d05a8
+      internalID: -1214490529989448932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 139
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f166096069114d5cbb23d486de311aa
+      internalID: 5387326585991617774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 153
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b137cc0038031497da6cf4b471113d74
+      internalID: -2798293154629925451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 141
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77401da7ad3734e1a90bc9cf1c2252eb
+      internalID: 490863247077493122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 154
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e0434044ac24099bb712fd85d0c83b
+      internalID: -2505093269409655830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 121
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc537a24504714ed2b523850f22d6af6
+      internalID: -122069085686368970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 142
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee2e509febf748b6b06b8000b199979
+      internalID: 7021248956570232985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 124
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2d17c41cd9143e29cd96bfb6847f34
+      internalID: 6600075071857570899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_21
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 124
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d02bf26e6214c289a31c6f549fe29d
+      internalID: 2549104303745106091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c324cd851bb02413d829bbc1406d2460
+      internalID: 4827747804215280741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 113
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff47ad4e8b004b71a56c535f6825ca0
+      internalID: 5574681540758370516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ff4be142b3344b2806234fb889f91e
+      internalID: -5536693077375013555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 113
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d3660ca370b4ca5afba17823dbd2e9
+      internalID: -4516205646521404547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_26
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc0ad44709804b5aadd05f5ccf04a6e
+      internalID: 1041868138524035369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 113
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b053afe1d59da4f159d128bfa6e8d502
+      internalID: 6661854710299496589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 75
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5ad92d316394e7db1c58c3f5af20b6
+      internalID: 5212144749203364005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159848efb63cb4d54a72ee7e316bf861
+      internalID: -508161557352657632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d723a80477643dfa9fb169142029ea
+      internalID: -1133013986041558252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 105
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80776b4260464c01a9567c6ed257452
+      internalID: -2522823880352206399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_32
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4a0c41007e14cc0a57cf52862c46d8
+      internalID: -4612707441586440383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bac5e60dd10437e86584d1fdafd951
+      internalID: -5039137253171988910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_34
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 105
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c123e14fa16453faffbca50e5004be
+      internalID: 7238710086890745232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_35
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 97
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5681c6e94a99848f689d81a0a444d286
+      internalID: -3750053428828195308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 96
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7fb61f4875a404f83059afa79de92f
+      internalID: -2869574704010258810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 97
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8315d13707f534b6a9b8e31e9da2e255
+      internalID: -3373931198461752377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 96
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdad7aae5e4544d0a06a5c8dc7a010c
+      internalID: -3204217072480349515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3925c0f46d2d4599aa965c9fc83ba37
+      internalID: 5278107995658559559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a851635b202b749069c4986beed13601
+      internalID: 5157242922888543045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4f35509b1184f109408dc8a4d016b1
+      internalID: -565274361764747429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 89
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b13b0fd20b14171ad3aded3efd0930
+      internalID: 7858636105573973519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1341333d1a21441a962ea3cd79e7d12
+      internalID: -2413903567366016932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 89
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db2162f4622c4c209056922dd46735e
+      internalID: -8018500950048837928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184a41783d0e04a9eba0b1c38c6c8cc0
+      internalID: -2932648362826111809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db32d1e875044fca416c6a03f8f1ef
+      internalID: -2084660200346963771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 81
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19c1d7d127804bd19b288c0893e1d77
+      internalID: 3670379246920074419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 79
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433a9d1b57c9b468ebc6c7ee6a310e52
+      internalID: 6729052514574342875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_49
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 79
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80399e66ae1a43b784aa3855f0d29ea
+      internalID: -2344658718064005541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 82
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a191f69b3fc843c7a7a1e2ccc1bbabe
+      internalID: -7700674623634467585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_51
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc8948e6dd084596bac65c7cbe343f4
+      internalID: -6714221736109646382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e514579726454994655c73f015716
+      internalID: 7956025479409378321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5ba0da0c5394ba4b748df357dbef62
+      internalID: 7294838836448490329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e027a4d24f594627829f2ba6b67e3dc
+      internalID: -6932657463647734018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_55
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 73
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a919233572444466cb6dd8509e68f8f9
+      internalID: -2316418767783885997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 73
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd63b99bfd12842a79d7589c550d1a75
+      internalID: -4121659664331949858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 73
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c4457afc3a5413182965ac55e2490a
+      internalID: 1969927700778333244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 43
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3aaa987acad43028607753dc1c4af5
+      internalID: 8958624565928888736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 43
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51acff37046984bf7a6c2511efeac7d1
+      internalID: 7755148965354041752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_60
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 43
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce04d4f6a2a4b458e8b2bdbf9bec96
+      internalID: 8629622459383990272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_61
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 24
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f75f5b601ba94082950d12c75adc869
+      internalID: -7289230835440147745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_62
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 31
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12b0fe3483c54caeb11608f7c890be6
+      internalID: -8263726803270087874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_63
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 24
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ae37bba99ad41a199d5881758bc7cb
+      internalID: 3017631965887612755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_64
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 24
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe3fd4a536374c59bd62094e5fb3362
+      internalID: -8080157545007837155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_65
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 30
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a39e5c366c8f4d6fa32a3ab6a3d00a2
+      internalID: -1489404577882400084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004dc93b224d54ef787250981bf8d7de
+      internalID: 7428299281780674828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_67
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 29
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22b3fdb497624fc5a3c67560a834959
+      internalID: -223791155178981188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_68
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 25
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed22322337dd48f09329ccdf3780cf1
+      internalID: 2362485477548416287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_69
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 25
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d19d7662ead4ff2b1f6522e1821224
+      internalID: -3192120067473930061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 25
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7109a5465757d477395d54aed6177591
+      internalID: -9139005694952569279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1c3deb363b24233810ba6f1b2f4c9c
+      internalID: -6698343310431211868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_72
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8f4414015946ce8669400f84296bf
+      internalID: 8833641915999598038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_73
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917548e02cfe940a4b163a473353afd4
+      internalID: -2370301203699129511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GraveyardSprites_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 11
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb66016ea8698464c837cecb96c56303
+      internalID: 8414243057812934891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
