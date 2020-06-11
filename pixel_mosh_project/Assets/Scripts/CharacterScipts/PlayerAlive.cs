@@ -48,6 +48,7 @@ public class PlayerAlive : PlayerState
         player.Weapon.transform.rotation = player.Hand.rotation;
         player.Weapon.transform.parent = player.Hand;
         Weapon weapon = player.Weapon.GetComponent<Weapon>();
+        weapon.PlayerHolding = player.gameObject;
         weapon.State = new ActivateWeapon(weapon);
     }
     void WeaponDrop(){

@@ -11,6 +11,7 @@ public class Weapon : MonoBehaviour
     public GameObject Bullet;
     public Transform Barrel;
     public float FireRate;
+    public bool IsAutomatic;
     public float Damage;
     public float BulletSpeed;
     public int Ammo;
@@ -28,7 +29,12 @@ public class Weapon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        FireButton = Input.GetMouseButton(0);
+        if(IsAutomatic){
+            FireButton = Input.GetMouseButton(0);
+        }
+        else{
+            FireButton = Input.GetMouseButtonDown(0);
+        }
         _State.UpdateState();
     }
 

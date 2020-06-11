@@ -6,6 +6,7 @@ public class DropWeapon : WeaponState
 {
     public DropWeapon(Weapon weapon){
         this.weapon = weapon;
+        weapon.PlayerHolding = null;
         foreach(var i in this.weapon.BulletPool){
             if(i.activeInHierarchy){
                 //Is going to be destroyed on collision
