@@ -139,7 +139,7 @@ Transform:
   m_GameObject: {fileID: 4137021075895482154}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 3.673, y: -1.125, z: -2}
-  m_LocalScale: {x: 0.3, y: 0.3, z: 0.3}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 0.4}
   m_Children:
   - {fileID: 4137021075256642048}
   m_Father: {fileID: 0}
@@ -191,6 +191,6 @@ MonoBehaviour:
   FireRate: 0.06666667
   IsAutomatic: 1
   Damage: 4
-  BulletSpeed: 10
+  BulletSpeed: 5
   Ammo: 35
   FireButton: 0
