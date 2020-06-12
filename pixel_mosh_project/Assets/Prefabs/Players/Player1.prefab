@@ -72,8 +72,8 @@ MonoBehaviour:
   Down: 115
   Right: 100
   Left: 97
-  GrabDrop: 103
-  Shoot: 0
+  GrabDrop: 101
+  Shoot: 32
   MoveSpeed: 1.5
   Hand: {fileID: 4182157020593158002}
   CharacerSprite: {fileID: 4182157020635448865}

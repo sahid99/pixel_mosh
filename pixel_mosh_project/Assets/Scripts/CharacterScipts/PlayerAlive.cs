@@ -113,6 +113,12 @@ public class PlayerAlive : PlayerState
         return -1;
     }
     public override void UpdateState(){
+        if(player.Health <= 0){
+            if(player.Weapon){
+                WeaponDrop();
+            }
+            player.State = new PlayerDead(player);
+        }
         ApplyHealth();
         IntereactWeapon();
         AimGun();

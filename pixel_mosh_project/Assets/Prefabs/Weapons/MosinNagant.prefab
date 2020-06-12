@@ -78,7 +78,7 @@ MonoBehaviour:
   Barrel: {fileID: 862282715707355842}
   FireRate: 1.2
   IsAutomatic: 0
-  Damage: 12
+  Damage: -12
   BulletSpeed: 10
   Ammo: 5
   FireButton: 0
