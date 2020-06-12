@@ -12,6 +12,7 @@ public class PlayerImmune : PlayerState
     private Vector2 _Aim;
     public PlayerImmune(Player player){
         this.player = player;
+        this.player.Health = this.player.MaxHealth;
         _rb = player.GetComponent<Rigidbody2D>();
         _Aim = Vector2.zero;
         _ImmuneDelay = 3.5f;

@@ -6,6 +6,7 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public float Health;
+    public float MaxHealth;
     public Vector3 RespawnPoint;
     public KeyCode Up;
     public KeyCode Down;

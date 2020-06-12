@@ -17,6 +17,9 @@ public class PlayerAlive : PlayerState
         while(player.Effect.Count > 0){
             player.Health += player.Effect.Dequeue();
         }
+        if(player.Health > player.MaxHealth){
+            player.Health = player.MaxHealth;
+        }
     }
     void ShootWeapon(){
         if(_CurrentWeapon){

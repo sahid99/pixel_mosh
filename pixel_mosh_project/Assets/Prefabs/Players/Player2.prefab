@@ -69,6 +69,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Health: 100
+  MaxHealth: 100
+  RespawnPoint: {x: 0, y: 0, z: 0}
   Up: 273
   Down: 274
   Right: 275
