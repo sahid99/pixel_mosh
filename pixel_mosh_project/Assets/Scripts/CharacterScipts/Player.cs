@@ -7,6 +7,7 @@ public class Player : MonoBehaviour
 {
     public float Health;
     public float MaxHealth;
+    public int PlayerNo;
     public Vector3 RespawnPoint;
     public KeyCode Up;
     public KeyCode Down;

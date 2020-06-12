@@ -15,6 +15,13 @@ public class PlayerDead : PlayerState
     public override void UpdateState(){
         if(_TimeCount > _DeadTime){
             player.transform.position = player.RespawnPoint;
+            if (TDMManager.sceneIndex == 1 || TDMManager.sceneIndex == 2){
+                if(player.PlayerNo == 1){
+                    TDMManager.rScore += 1;
+                } else {
+                    TDMManager.bScore += 1;
+                }
+            }
             player.gameObject.GetComponentInChildren<SpriteRenderer>().enabled = true;
             player.State = new PlayerImmune(player);
         }
