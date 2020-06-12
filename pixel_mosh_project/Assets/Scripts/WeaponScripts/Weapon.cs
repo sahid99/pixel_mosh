@@ -29,12 +29,12 @@ public class Weapon : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(IsAutomatic){
-            FireButton = Input.GetMouseButton(0);
-        }
-        else{
-            FireButton = Input.GetMouseButtonDown(0);
-        }
+        // if(IsAutomatic){
+        //     FireButton = Input.GetMouseButton(0);
+        // }
+        // else{
+        //     FireButton = Input.GetMouseButtonDown(0);
+        // }
         _State.UpdateState();
     }
 
