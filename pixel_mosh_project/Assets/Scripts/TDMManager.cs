@@ -31,8 +31,11 @@ public class TDMManager : MonoBehaviour
     {
         RedScore.text = rScore.ToString();
         BlueScore.text = bScore.ToString();
+        if (rScore >= 3 || bScore >= 10){
+            GameOver();
+        }
     }
     void GameOver(){
-
+        SceneManager.LoadScene(0);
     }
 }
