@@ -21,6 +21,7 @@ public class PlayerAlive : PlayerState
         if(Input.GetKey(player.Down)) move.y-=1;
         if(Input.GetKey(player.Right)) move.x+=1;
         if(Input.GetKey(player.Left)) move.x-=1;
+        
         return move; 
     }
     void IntereactWeapon(){
@@ -29,6 +30,7 @@ public class PlayerAlive : PlayerState
             if(player.Weapon){ //We have a weapon
                 //Drop
                 Debug.Log("Drop");
+                player.GetComponent<AudioSource>().Play();
                 WeaponDrop();
             }
             else if(!player.SelectedObj){
@@ -39,6 +41,7 @@ public class PlayerAlive : PlayerState
                 //Grab
                 Debug.Log("Grab");
                 player.Weapon = player.SelectedObj;
+                player.GetComponent<AudioSource>().Play();
                 SetUpWeapon();
             }
         }
