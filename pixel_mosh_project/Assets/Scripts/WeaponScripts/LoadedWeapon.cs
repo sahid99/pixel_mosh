@@ -21,7 +21,7 @@ public class LoadedWeapon : WeaponState
                 if(bulletRB){
                     GameObject bullet = weapon.BulletPool[i];
                     bullet.transform.position = weapon.Barrel.position;
-                    bullet.transform.rotation = weapon.Barrel.rotation; //Check
+                    bullet.transform.rotation = weapon.gameObject.transform.rotation; //Check
                     bullet.SetActive(true);
                     bulletRB.AddForce(weapon.transform.right*weapon.BulletSpeed, ForceMode2D.Impulse);
                     weapon.Ammo -= 1;

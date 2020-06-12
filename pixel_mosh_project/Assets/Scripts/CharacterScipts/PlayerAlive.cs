@@ -6,13 +6,24 @@ public class PlayerAlive : PlayerState
 {
     private Rigidbody2D _rb;
     private Vector2 _NextMove;
+    private Weapon _CurrentWeapon;
+    private Vector2 _Aim;
     public PlayerAlive(Player player){
         this.player = player;
         _rb = player.GetComponent<Rigidbody2D>();
+        _Aim = Vector2.zero;
     }
     public void ApplyHealth(){
         while(player.Effect.Count > 0){
             player.Health += player.Effect.Dequeue();
+        }
+    }
+    void ShootWeapon(){
+        if(_CurrentWeapon){
+            _CurrentWeapon.FireButton = 
+            _CurrentWeapon.IsAutomatic 
+            ? Input.GetKey(player.Shoot) 
+            : Input.GetKeyDown(player.Shoot);  
         }
     }
     Vector2 GetMoveInputs(){
@@ -26,7 +37,7 @@ public class PlayerAlive : PlayerState
     }
     void IntereactWeapon(){
         if(Input.GetKeyDown(player.GrabDrop)){
-            Debug.Log("GotInput");
+            // Debug.Log("GotInput");
             if(player.Weapon){ //We have a weapon
                 //Drop
                 Debug.Log("Drop");
@@ -34,12 +45,12 @@ public class PlayerAlive : PlayerState
                 WeaponDrop();
             }
             else if(!player.SelectedObj){
-                Debug.Log("Not Selected");
+                // Debug.Log("Not Selected");
                 return;
             }
             else if(player.SelectedObj){
                 //Grab
-                Debug.Log("Grab");
+                // Debug.Log("Grab");
                 player.Weapon = player.SelectedObj;
                 player.GetComponent<AudioSource>().Play();
                 SetUpWeapon();
@@ -53,15 +64,27 @@ public class PlayerAlive : PlayerState
         Weapon weapon = player.Weapon.GetComponent<Weapon>();
         weapon.PlayerHolding = player.gameObject;
         weapon.State = new ActivateWeapon(weapon);
+        _CurrentWeapon = weapon;
     }
     void WeaponDrop(){
         player.Weapon.transform.parent = null;
         Weapon weapon = player.Weapon.GetComponent<Weapon>();
         weapon.State = new DropWeapon(weapon);
         player.Weapon = null;
+        _CurrentWeapon = null;
     }
     void AimGun(){
-        float angle = Mathf.Atan2(player.Aim.y, player.Aim.x) * Mathf.Rad2Deg;
+        Vector2 aiming = Vector2.zero;
+        if(Input.GetKey(player.Up)) aiming.y+=1;
+        if(Input.GetKey(player.Down)) aiming.y-=1;
+        if(Input.GetKey(player.Right)) aiming.x+=1;
+        if(Input.GetKey(player.Left)) aiming.x-=1;
+        //Check for updates in movement
+        if(aiming != Vector2.zero){
+            _Aim = aiming;
+        }
+
+        float angle = Mathf.Atan2(_Aim.y, _Aim.x) * Mathf.Rad2Deg;
         int cuadrante = Cuadrante(angle);
         switch(cuadrante){
             case 1:
@@ -84,8 +107,8 @@ public class PlayerAlive : PlayerState
     }
     int Cuadrante(float angle){
         if(angle >= 0 && angle < 90) return 1;
-        if(angle >= 90 && angle < 180) return 2;
-        if(angle >= -180 && angle < -90) return 3;
+        if(angle >= 90 && angle <= 180) return 2;
+        if(angle > -180 && angle < -90) return 3;
         if(angle >= -90 && angle < 0) return 4;
         return -1;
     }
@@ -93,6 +116,7 @@ public class PlayerAlive : PlayerState
         ApplyHealth();
         IntereactWeapon();
         AimGun();
+        ShootWeapon();
         _NextMove = GetMoveInputs();
     }
     public override void FixedUpdateState(){

@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
     public KeyCode Right;
     public KeyCode Left;
     public KeyCode GrabDrop;
+    public KeyCode Shoot;
     public float MoveSpeed;
     public Transform Hand;
     public Transform CharacerSprite;
@@ -28,7 +29,6 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _Aim = Input.mousePosition - Camera.main.WorldToScreenPoint(transform.position);
         _State.UpdateState();
     }
     void FixedUpdate(){
