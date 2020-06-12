@@ -20,16 +20,6 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     private PlayerState _State;
     public Queue<float> Effect;
-    private PlayerControlls controlls;
-    void Awake(){
-        controlls = new PlayerControlls();
-    }
-    void OnEnable(){
-        controlls.Player.Enable();
-    }
-    void OnDisable(){
-        controlls.Player.Disable();
-    }
     void Start()
     {
         _State = new PlayerAlive(this);
@@ -38,13 +28,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // _Aim = Input.mousePosition - Camera.main.WorldToScreenPoint(transform.position);
-        if(controlls.Player.Aim.triggered){
-            Vector2 AimInput = controlls.Player.Aim.ReadValue<Vector2>();
-            if(AimInput != Vector2.zero){
-                _Aim = AimInput;
-            }
-        }
+        _Aim = Input.mousePosition - Camera.main.WorldToScreenPoint(transform.position);
         _State.UpdateState();
     }
     void FixedUpdate(){
@@ -73,9 +57,6 @@ public class Player : MonoBehaviour
 
     public Vector2 Aim{
         get{return _Aim;}
-    }
-    public PlayerControlls Controlls{
-        get{return controlls;}
     }
 
 }
